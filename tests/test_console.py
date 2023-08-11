@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """A unit test module for the console (command interpreter).
 """
-import json
+
 import MySQLdb
 import os
 import sqlalchemy
